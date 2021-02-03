@@ -1,0 +1,51 @@
+* {
+	margin: 0; 
+	padding: 0;
+	/* outline: 1px dotted red; */
+}
+
+body{
+	margin: 0px auto;
+	
+	justify-content:center
+}
+
+.negro{
+	background-color:black;
+	width: 20px;
+	height:20px;
+	display : inline-block;
+	margin-right: -1px;
+	margin-bottom:-4px;
+}
+
+
+.rojo{
+	background-color:red; 
+	width: 20px;
+	height:20px;
+	display: inline-block;
+	margin-right: -1px;
+	margin-bottom:-4px;
+}
+
+
+
+.centrar{
+	
+	margin-left: 25%;
+	margin-right: 25%;
+	justify-content:center;
+	text-align:center
+}
+
+h1{
+	color: blue;
+	text-align:center;
+}
+
+.container{
+	margin: 0px auto;
+	padding: 10px;	
+	background-color: blue-sky ;
+}
